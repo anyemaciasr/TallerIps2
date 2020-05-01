@@ -1,0 +1,16 @@
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb

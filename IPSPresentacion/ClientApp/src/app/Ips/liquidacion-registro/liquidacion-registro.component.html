@@ -1,0 +1,39 @@
+<div class="contenedor">
+  <h1>Liquidaciones</h1>
+  <form [formGroup]="formGroup">
+    <div class="form-group">
+      <label for="formGroupExampleInput">Identificacion Paciente</label>
+      <input type="text" class="form-control" maxlength="15" name="identificacionPaciente" formControlName="identificacionPaciente"
+         [ngClass]="{ 'is-invalid': control.identificacionPaciente.errors && formGroup.get('identificacionPaciente').touched}"
+        />
+      <div *ngIf="control.identificacionPaciente.errors" class="invalid-feedback">
+        <div *ngIf="control.identificacionPaciente.errors.required">Se requiere la identificacion del paciente</div>
+      </div>
+    </div>
+    <div class="form-group" >
+      <label for="formGroupExampleInput2">Valor Hospitalizacion</label>
+      <input type="number" class="form-control"   formControlName="valorHospitalizacion" name="valorHospitalizacion"
+        [ngClass]="{'is-invalid':control.valorHospitalizacion.errors && formGroup.get('valorHospitalizacion').touched}"
+         />
+      <div *ngIf="control.valorHospitalizacion.errors" class="invalid-feedback">
+        <div *ngIf="control.valorHospitalizacion.errors.required">Se requiere el valor del servicio</div>
+        <div *ngIf="control.valorHospitalizacion.errors.min">No se permite ese valor</div>
+      </div>
+    </div>
+    <div class="form-group" >
+      <label for="formGroupExampleInput2">Salario</label>
+      <input type="number" class="form-control" formControlName="salario" name="salario"
+        [ngClass]="{ 'is-invalid':control.salario.errors && formGroup.get('salario').touched }"
+         />
+      <div *ngIf="control.salario.errors"   class="invalid-feedback">
+        <div *ngIf="control.salario.errors.required">Se requiere el valor del salario</div>
+        <div *ngIf="control.salario.errors.min">No se permite ese valor</div>
+      </div>
+    </div>
+    <div>
+      <button class="btn btn-outline-danger" (click)="onSubmit()"
+        [disabled]="formGroup.invalid">Calcular/Registrar</button>
+      <button class="btn btn-outline-secondary" type="reset">Cancelar</button>
+    </div>
+  </form>
+</div>

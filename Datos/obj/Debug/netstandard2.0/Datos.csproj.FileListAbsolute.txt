@@ -1,0 +1,22 @@
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\Datos\obj\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\universidad\programacionWEB programas\TallerIps-master\Datos\obj\Debug\netstandard2.0\Datos.pdb
